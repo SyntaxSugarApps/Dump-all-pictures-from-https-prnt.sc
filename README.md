@@ -3,7 +3,7 @@ This script dumps all the pictures from https://prnt.sc.
 
 # Background
 Users can upload pictures to https://prnt.sc that are made publicly availalbe. The way the access to each picture is structured is through 
-a sequence consisting of two letters and a four digit number. In totalt making a code consiting of 6 characters. Letters range from aa - zz and numbers from 0000 - 9999.
+a sequence consisting of two letters and a four digit number. In totalt making a code consisting of 6 characters. Letters range from aa - zz and numbers from 0000 - 9999.
 
 An example of the url for one picture is: https://prnt.sc/aa0000
 
